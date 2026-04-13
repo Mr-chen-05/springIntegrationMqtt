@@ -1,0 +1,8 @@
+spring:
+  mqtt:
+    username: zhangsan
+    password: 123
+    url: tcp://192.168.100.129:1883
+    subClientId: sub_client_id_323
+    subTopic: atguigu/iot/lamp/line
+    pubClientId: pub_client_id_323
